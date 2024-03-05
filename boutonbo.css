@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+table{
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
